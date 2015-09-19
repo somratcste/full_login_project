@@ -7,7 +7,9 @@
 5. Responsive project using twitter bootstrap. 
 6. Using HTML5 and CSS3 . 
 7. For Dynamic using php and mysqli . 
-8. Finally every think are managed nicely . 
+9. No framework can be used.
+10. This is an raw php and mysqli project. 
+11. Finally every think are managed nicely . 
                                                       Thank you . 
 
 
