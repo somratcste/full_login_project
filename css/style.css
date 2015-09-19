@@ -1,0 +1,73 @@
+.body {
+
+}
+
+.container{
+    width: 960px;
+}
+.header{
+  text-align: center;
+  padding: 10px;
+}
+
+
+.nav {
+
+}
+.form {
+	padding: 20px;
+	width: 400px;
+}
+
+.menu {
+	background-color: blue;
+}
+.menu a :hover {
+	background-color: #fff;
+}
+.sign_up_button {
+	float: right;
+}
+
+.h1, h1 {
+    font-size: 45px;
+    font-family: times new !important;
+}
+
+.h2, h2 {
+    font-size: 35px;
+    font-family: times new !important;
+}
+.footer {
+	padding: 10px;
+	background-color: blue;
+	color: white;
+	margin-top: 20px;
+}
+.footer_left {
+	float: left;
+}
+.footer_right {
+	text-align: right;
+}
+.image {
+	padding: 20px;
+}
+.content {
+    padding: 20px;
+    font-family: caption;
+    font-size: 16px;
+    text-align: justify;
+}
+.error {
+	font-size: 16px;
+}
+
+
+.table_information {
+	font-family: cursive;
+
+}
+.table_header {
+
+}
